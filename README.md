@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh92320
 - 👀 I’m interested in DSA
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me harshsharma90340@gmail.com
 - 😄 Pronouns:He/Him
